@@ -1,0 +1,46 @@
+festival,electric picnic
+bandregex,[ ][0-9a-zA-Z& ][a-zA-Z& ]+
+starttimeregex,[0-9]+[.][0-9]+[-]
+endtimeregex,[0-9]+[.][0-9]+[ ]
+xslttemplatename,TemplateXSLT
+stage,1,main,main stage
+stage,2,,mindfield
+stage,3,electric,ELECTRIC ARENA
+stage,4,,RANKIN’S WOOD
+stage,5,cosby,COSBY TENT
+stage,6,little big,LITTLE BIG
+stage,10,body+soul,BODY AND SOUL MAIN STAGE
+stage,11,bandstand,THE BANDSTAND (BODY & SOUL)
+stage,12,earthship,EARTHSHIP STAGE
+stage,13,peace pagoda,PEACE PAGODA (BODY & SOUL)
+stage,14,wonderlust,wonderlust (BODY & SOUL)
+stage,15,woodlands,woodlands,(BODY & SOUL)
+stage,16,midnight circus,midnight circus,(BODY & SOUL)
+stage,20,other voices,OTHER VOICES
+stage,21,jerry fish,JERRY FISH
+stage,22,trailer park,TRAILER PARK
+stage,23,salty dog,SALTY DOG
+stage,24,trenchtown,TRENCHTOWN
+day,1,friday
+day,2,saturday
+day,3,sunday
+timespan,1,10,18
+timespan,2,18,22
+timespan,3,22,24
+timespan,4,24,28
+color,1,1,#98CEA5
+color,1,2,#a5bef1
+color,1,3,#EBD9D9
+color,1,4,#bbe188
+color,2,1,#98CEA5
+color,2,2,#a5bef1 
+color,2,3,#bbe188
+color,2,4,#EBD9D9
+color,3,1,#e7d9eb
+color,3,2,#98CEA5
+color,3,3,#EBD9D9 
+color,3,4,#dcabea
+starthour,14
+endhour,28
+
+
